@@ -20,7 +20,7 @@ import { ReactComponent as ArrowRightIcon} from "images/arrow-right-3-icon.svg";
 
 import heroScreenshotImageSrc from "images/demo/MainLandingPageHero.png";
 import logo from "images/logo.svg";
-import useInView from "use-in-view";
+import useInView from "hooks/useInView";
 
 /* Hero */
 const Row = tw.div`flex`;
